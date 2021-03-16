@@ -1,0 +1,13 @@
+{
+  "name": "e-commerce",
+  "author": "Ewa Sęk",
+
+  "version": "1.0.0",
+
+  "private": true,
+
+  "dependencies": {
+    "gulp": "~3.9",
+    "laravel-elixir": "~5.0.0"
+  }
+}

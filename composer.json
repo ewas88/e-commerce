@@ -1,0 +1,17 @@
+{
+  "name": "ewas88/e-commerce",
+  "description": "PHP MVC project",
+  "version": "1.0",
+  "time": "2021-03013",
+  "authors": [
+    {
+      "name": "Ewa Sęk",
+      "email": "ewa.sek@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "3.6.8",
+    "altorouter/altorouter": "^2.0"
+  }
+}
